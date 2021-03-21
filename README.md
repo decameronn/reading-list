@@ -1,5 +1,5 @@
 # Reading List
-A list of books that I am currently reading and a history of what I read in the (very recent) past.  
+A list of books that I am currently reading and a history of what I read in the (very recent) past. All the materials listed here helped mold me into who I am today.  
 When I say "book", I mean an actual book, but also an article, a video (even an entire series), a podcast, etc.  
   
 Sorting is done by author's name, in alphabetical order.  
@@ -19,13 +19,17 @@ A note on digital book readers: For Windows and Linux, I haven't yet found an re
   
 ![image](https://user-images.githubusercontent.com/17513553/111898079-7caf7600-8a2c-11eb-9cc0-c7c538d4cdf1.png)
   
-### Currently Reading
+### Currently Reading / Watching
 I usually read several books at any give time, partly because switching between them gives me a better perspective on the books. If you have reading advice, I am interested in hearing it.  
   
 [Asimov, Isaac - Foundation](https://www.amazon.com/Foundation-Isaac-Asimov/dp/0553382578)  
 [Harari, Yuval Noah - Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)  
 [Peterson, B. Jordan - 12 Rules for Life: An Antidote to Chaos](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021)  
-
+  
+[Human Behavioral Biology](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)  
+[Elements of AI](https://www.elementsofai.com/)  
+[Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)  
+  
 ### Finished
 [Lovecraft, H.P. - The Call of Cthulhu](https://www.amazon.com/Call-Cthulhu-H-P-Lovecraft/dp/B08DDVJVTC)  
 [Murakami, Haruki - 1Q84](https://www.amazon.com/1Q84-Books-1-2-3/dp/0099578077)  
@@ -33,8 +37,14 @@ I usually read several books at any give time, partly because switching between 
 [Raymond, Eric S. - The Art of UNIX Programming](https://www.amazon.com/UNIX-Programming-Addison-Wesley-Professional-Computng/dp/0131429019)  
 [Raymond, Eric S. - The Cathedral & The Bazaar](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary/dp/0596001088)  
 [DeMarco, Tom - Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113)  
+
+[The Age of AI - Youtube](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)  
+[Human Behavioral Biology - Youtube](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)  
   
-### To Read
+### To Read / Watch
 [Wolfram, Stephen - A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088)  
 [Jordan, Robert - The Eye of The World](https://www.amazon.com/Eye-World-Book-Wheel-Time/dp/1250754739)  
-[Follett, Ken - The Pillars Of The Earth](https://www.amazon.com/Pillars-Earth-Kingsbridge-Ken-Follett/dp/0451488334)  
+[Follett, Ken - The Pillars Of The Earth](https://www.amazon.com/Pillars-Earth-Kingsbridge-Ken-Follett/dp/0451488334) 
+  
+[The Psychological Significance of the Biblical Stories: Genesis - Youtube](https://www.youtube.com/playlist?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat)  
+[]()
