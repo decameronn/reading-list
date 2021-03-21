@@ -26,8 +26,8 @@ I usually read several books at any give time, partly because switching between 
 [Harari, Yuval Noah - Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)  
 [Peterson, B. Jordan - 12 Rules for Life: An Antidote to Chaos](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021)  
   
-[Human Behavioral Biology](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)  
 [Elements of AI](https://www.elementsofai.com/)  
+[Human Behavioral Biology - Youtube](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)  
 [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)  
   
 ### Finished
@@ -38,7 +38,7 @@ I usually read several books at any give time, partly because switching between 
 [Raymond, Eric S. - The Cathedral & The Bazaar](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary/dp/0596001088)  
 [DeMarco, Tom - Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113)  
 
-[The Age of AI - Youtube](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)  
+[Age of AI, The - Youtube](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)  
 [Human Behavioral Biology - Youtube](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)  
   
 ### To Read / Watch
@@ -46,5 +46,5 @@ I usually read several books at any give time, partly because switching between 
 [Jordan, Robert - The Eye of The World](https://www.amazon.com/Eye-World-Book-Wheel-Time/dp/1250754739)  
 [Follett, Ken - The Pillars Of The Earth](https://www.amazon.com/Pillars-Earth-Kingsbridge-Ken-Follett/dp/0451488334) 
   
-[The Psychological Significance of the Biblical Stories: Genesis - Youtube](https://www.youtube.com/playlist?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat)  
+[Psychological Significance of the Biblical Stories: Genesis, The - Youtube](https://www.youtube.com/playlist?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat)  
 []()
