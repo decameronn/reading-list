@@ -14,13 +14,14 @@ If you want to recommend any material that you find useful, please do so via pul
 ##### EPUB:  
 - macOS: iBooks; 
 - Win: Vivlio;
-- Linux: Vivlio;
+- Linux: Vivlio;  
 A note on digital book readers: For Windows and Linux, I haven't yet found an reader that can match iBooks design. There are readers out there, but I'm looking for a minimalist design (I'm not looking at you, Calibre), while retaining the functionality and aesthetics, while not being cluttered with useless commercials (such as many from Windows 10 Store are). In this regard, [Vivlio](https://www.vivlio.com/en/home/) is the closest I could find.  
   
 ![image](https://user-images.githubusercontent.com/17513553/111898079-7caf7600-8a2c-11eb-9cc0-c7c538d4cdf1.png)
   
 ### Currently Reading
 I usually read several books at any give time, partly because switching between them gives me a better perspective on the books. If you have reading advice, I am interested in hearing it.  
+  
 [Asimov, Isaac - Foundation](https://www.amazon.com/Foundation-Isaac-Asimov/dp/0553382578)  
 [Peterson, B. Jordan - 12 Rules for Life: An Antidote to Chaos](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021)  
 [Harari, Yuval Noah - Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)  
