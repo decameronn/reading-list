@@ -23,19 +23,18 @@ A note on digital book readers: For Windows and Linux, I haven't yet found an re
 I usually read several books at any give time, partly because switching between them gives me a better perspective on the books. If you have reading advice, I am interested in hearing it.  
   
 [Asimov, Isaac - Foundation](https://www.amazon.com/Foundation-Isaac-Asimov/dp/0553382578)  
-[Peterson, B. Jordan - 12 Rules for Life: An Antidote to Chaos](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021)  
 [Harari, Yuval Noah - Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)  
+[Peterson, B. Jordan - 12 Rules for Life: An Antidote to Chaos](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021)  
 
 ### Finished
-[Murakami, Haruki - 1Q84](https://www.amazon.com/1Q84-Books-1-2-3/dp/0099578077)  
 [Lovecraft, H.P. - The Call of Cthulhu](https://www.amazon.com/Call-Cthulhu-H-P-Lovecraft/dp/B08DDVJVTC)  
+[Murakami, Haruki - 1Q84](https://www.amazon.com/1Q84-Books-1-2-3/dp/0099578077)  
 [Nilsson, Nils J. - The Quest for Artificial Intelligence](https://www.amazon.com/Quest-Artificial-Intelligence-Nils-Nilsson/dp/0521122937)  
-[]()  
-
+[Raymond, Eric S. - The Art of UNIX Programming](https://www.amazon.com/UNIX-Programming-Addison-Wesley-Professional-Computng/dp/0131429019)  
+[Raymond, Eric S. - The Cathedral & The Bazaar](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary/dp/0596001088)  
+[DeMarco, Tom - Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113)  
+  
 ### To Read
 [Wolfram, Stephen - A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088)  
 [Jordan, Robert - The Eye of The World](https://www.amazon.com/Eye-World-Book-Wheel-Time/dp/1250754739)  
 [Follett, Ken - The Pillars Of The Earth](https://www.amazon.com/Pillars-Earth-Kingsbridge-Ken-Follett/dp/0451488334)  
-[Raymond, Eric S. - The Art of UNIX Programming](https://www.amazon.com/UNIX-Programming-Addison-Wesley-Professional-Computng/dp/0131429019)  
-[Raymond, Eric S. - The Cathedral & The Bazaar](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary/dp/0596001088)  
-[DeMarco, Tom - Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113)  
