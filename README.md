@@ -1,5 +1,5 @@
 # Reading List
-A list of books that I am currently reading and a history of what I read in the (very recent) past. All the materials listed here helped mold me into who I am today.  
+A list of books that I am currently reading and a history of what I read in the (very recent) past. All the materials listed here helped mold me (to various degrees) into who I am today.  
 When I say "book", I mean an actual book, but also an article, a video (even an entire series), a podcast, etc.  
   
 Sorting is done by author's name, in alphabetical order.  
