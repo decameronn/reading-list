@@ -29,7 +29,8 @@ I usually read several books at any give time, partly because switching between 
 [Elements of AI](https://www.elementsofai.com/)  
 [Human Behavioral Biology - Youtube](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)  
 [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)  
-  
+[The Science of Well-Being - Coursera](https://www.coursera.org/learn/the-science-of-well-being)  
+
 ### Finished
 [Asimov, Isaac - Foundation](https://www.amazon.com/Foundation-Isaac-Asimov/dp/0553382578)  
 [Lovecraft, H.P. - The Call of Cthulhu](https://www.amazon.com/Call-Cthulhu-H-P-Lovecraft/dp/B08DDVJVTC)  
