@@ -33,9 +33,11 @@ I usually read several books at any give time, partly because switching between 
 
 ### Finished
 [Asimov, Isaac - Foundation](https://www.amazon.com/Foundation-Isaac-Asimov/dp/0553382578)  
+[Bradbury, Ray - Fahrenheit 451](https://www.amazon.com/Fahrenheit-451-Ray-Bradbury/dp/1451673264)  
 [Lovecraft, H.P. - The Call of Cthulhu](https://www.amazon.com/Call-Cthulhu-H-P-Lovecraft/dp/B08DDVJVTC)  
 [Murakami, Haruki - 1Q84](https://www.amazon.com/1Q84-Books-1-2-3/dp/0099578077)  
 [Nilsson, Nils J. - The Quest for Artificial Intelligence](https://www.amazon.com/Quest-Artificial-Intelligence-Nils-Nilsson/dp/0521122937)  
+[Orwell, George - 1984](https://www.amazon.com/1984-George-Orwell/dp/0452262933)  
 [Raymond, Eric S. - The Art of UNIX Programming](https://www.amazon.com/UNIX-Programming-Addison-Wesley-Professional-Computng/dp/0131429019)  
 [Raymond, Eric S. - The Cathedral & The Bazaar](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary/dp/0596001088)  
 [DeMarco, Tom - Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113)  
