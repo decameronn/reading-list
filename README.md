@@ -46,9 +46,9 @@ I usually read several books at any give time, partly because switching between 
 [Human Behavioral Biology - Youtube](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)  
   
 ### To Read / Watch
-[Wolfram, Stephen - A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088)  
+[Follett, Ken - The Pillars Of The Earth](https://www.amazon.com/Pillars-Earth-Kingsbridge-Ken-Follett/dp/0451488334)  
+[Gleick, James - Chaos: Making a New Science](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453)  
 [Jordan, Robert - The Eye of The World](https://www.amazon.com/Eye-World-Book-Wheel-Time/dp/1250754739)  
-[Follett, Ken - The Pillars Of The Earth](https://www.amazon.com/Pillars-Earth-Kingsbridge-Ken-Follett/dp/0451488334) 
+[Wolfram, Stephen - A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088)  
   
 [Psychological Significance of the Biblical Stories: Genesis, The - Youtube](https://www.youtube.com/playlist?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat)  
-[]()
