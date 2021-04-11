@@ -1,6 +1,6 @@
 # Reading List
 A list of books that I am currently reading and a history of what I read in the (very recent) past. All the materials listed here molded me (to various degrees) into who I am today.  
-When I say "book", I mean an actual book, but also an article, a video (even an entire series), a podcast, etc.  
+When I say "book", I mean an actual book, but also an article, a video (even an entire series), a podcast, etc. Therefore it should be considered a "watch list" as well.    
   
 Sorting is done by author's name, in alphabetical order.  
 I may also add other sub-categories later on.
@@ -31,6 +31,14 @@ I usually read several books at any give time, partly because switching between 
 [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)  
 [The Science of Well-Being - Coursera](https://www.coursera.org/learn/the-science-of-well-being)  
 
+### To Read / Watch
+[Follett, Ken - The Pillars Of The Earth](https://www.amazon.com/Pillars-Earth-Kingsbridge-Ken-Follett/dp/0451488334)  
+[Gleick, James - Chaos: Making a New Science](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453)  
+[Jordan, Robert - The Eye of The World](https://www.amazon.com/Eye-World-Book-Wheel-Time/dp/1250754739)  
+[Wolfram, Stephen - A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088)  
+  
+[Psychological Significance of the Biblical Stories: Genesis, The - Youtube](https://www.youtube.com/playlist?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat)  
+  
 ### Finished
 [Asimov, Isaac - Foundation](https://www.amazon.com/Foundation-Isaac-Asimov/dp/0553382578)  
 [Bradbury, Ray - Fahrenheit 451](https://www.amazon.com/Fahrenheit-451-Ray-Bradbury/dp/1451673264)  
@@ -45,10 +53,3 @@ I usually read several books at any give time, partly because switching between 
 [Age of AI, The - Youtube](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)  
 [Human Behavioral Biology - Youtube](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)  
   
-### To Read / Watch
-[Follett, Ken - The Pillars Of The Earth](https://www.amazon.com/Pillars-Earth-Kingsbridge-Ken-Follett/dp/0451488334)  
-[Gleick, James - Chaos: Making a New Science](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453)  
-[Jordan, Robert - The Eye of The World](https://www.amazon.com/Eye-World-Book-Wheel-Time/dp/1250754739)  
-[Wolfram, Stephen - A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088)  
-  
-[Psychological Significance of the Biblical Stories: Genesis, The - Youtube](https://www.youtube.com/playlist?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat)  
