@@ -53,7 +53,7 @@ I usually read several books at any give time, partly because switching between 
 [Orwell, George - 1984](https://www.amazon.com/1984-George-Orwell/dp/0452262933)  
 [Raymond, Eric S. - The Art of UNIX Programming](https://www.amazon.com/UNIX-Programming-Addison-Wesley-Professional-Computng/dp/0131429019)  
 [Raymond, Eric S. - The Cathedral & The Bazaar](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary/dp/0596001088)  
-[]()
+[Shirow, Masamune - Ghost In The Shell](https://www.amazon.com/Ghost-Shell-Dark-Horse-Comics/dp/1569710813)  
 [Strugatsky, Arkady & Boris - Roadside Picnic](https://www.amazon.com/Roadside-Picnic-Rediscovered-Classics-Strugatsky/dp/1613743416)  
   
 [Age of AI, The - Youtube](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)  
