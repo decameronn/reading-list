@@ -36,6 +36,7 @@ I usually read several books at any give time, partly because switching between 
 [Gleick, James - Chaos: Making a New Science](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453)  
 [Jordan, Robert - The Eye of The World](https://www.amazon.com/Eye-World-Book-Wheel-Time/dp/1250754739)  
 [Wolfram, Stephen - A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088)  
+[]()
   
 [Psychological Significance of the Biblical Stories: Genesis, The - Youtube](https://www.youtube.com/playlist?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat)  
   
@@ -44,6 +45,7 @@ I usually read several books at any give time, partly because switching between 
 [Boccaccio, Giovani - The Decameron](https://www.amazon.com/Decameron-Giovanni-Boccaccio/dp/0393350266)  
 [Bradbury, Ray - Fahrenheit 451](https://www.amazon.com/Fahrenheit-451-Ray-Bradbury/dp/1451673264)  
 [DeMarco, Tom - Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113)  
+[Dick, P.K. - Ubik](https://www.amazon.com/Ubik-Philip-K-Dick/dp/1857988531)  
 [Herbert, Frank - Dune](https://www.amazon.com/Dune-Chronicles-Book-1/dp/0441013597)  
 [Lovecraft, H.P. - The Call of Cthulhu](https://www.amazon.com/Call-Cthulhu-H-P-Lovecraft/dp/B08DDVJVTC)  
 [Murakami, Haruki - 1Q84](https://www.amazon.com/1Q84-Books-1-2-3/dp/0099578077)  
@@ -51,6 +53,7 @@ I usually read several books at any give time, partly because switching between 
 [Orwell, George - 1984](https://www.amazon.com/1984-George-Orwell/dp/0452262933)  
 [Raymond, Eric S. - The Art of UNIX Programming](https://www.amazon.com/UNIX-Programming-Addison-Wesley-Professional-Computng/dp/0131429019)  
 [Raymond, Eric S. - The Cathedral & The Bazaar](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary/dp/0596001088)  
+[]()
 [Strugatsky, Arkady & Boris - Roadside Picnic](https://www.amazon.com/Roadside-Picnic-Rediscovered-Classics-Strugatsky/dp/1613743416)  
   
 [Age of AI, The - Youtube](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)  
