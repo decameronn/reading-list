@@ -28,6 +28,7 @@ I usually read several books at any give time, partly because switching between 
   
 [Elements of AI](https://www.elementsofai.com/)  
 [Human Behavioral Biology - Youtube](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)  
+[Lex Fridman Podcast #70 - Jim Keller (Youtube)](https://www.youtube.com/watch?v=Nb2tebYAaOA)  
 [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)  
 [The Science of Well-Being - Coursera](https://www.coursera.org/learn/the-science-of-well-being)  
 
