@@ -22,8 +22,8 @@ A note on digital book readers: For Windows and Linux, I haven't yet found an re
 ### Currently Reading / Watching
 I usually read several books at any give time, partly because switching between them gives me a better perspective on the books. If you have reading advice, I am interested in hearing it.  
   
+[Culasada (John Yates - The Mind Illuminated](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985)  
 [Harari, Yuval Noah - Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)  
-[Peterson, B. Jordan - 12 Rules for Life: An Antidote to Chaos](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021)  
 [Sidis, W.J. - The Animate and The Inanimate](https://www.amazon.com/Animate-Inanimate-William-James-Sidis/dp/B08SBCL3W1)  
   
 [Elements of AI](https://www.elementsofai.com/)  
@@ -52,6 +52,7 @@ I usually read several books at any give time, partly because switching between 
 [Murakami, Haruki - 1Q84](https://www.amazon.com/1Q84-Books-1-2-3/dp/0099578077)  
 [Nilsson, Nils J. - The Quest for Artificial Intelligence](https://www.amazon.com/Quest-Artificial-Intelligence-Nils-Nilsson/dp/0521122937)  
 [Orwell, George - 1984](https://www.amazon.com/1984-George-Orwell/dp/0452262933)  
+[Peterson, B. Jordan - 12 Rules for Life: An Antidote to Chaos](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021)  
 [Raymond, Eric S. - The Art of UNIX Programming](https://www.amazon.com/UNIX-Programming-Addison-Wesley-Professional-Computng/dp/0131429019)  
 [Raymond, Eric S. - The Cathedral & The Bazaar](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary/dp/0596001088)  
 [Shirow, Masamune - Ghost In The Shell](https://www.amazon.com/Ghost-Shell-Dark-Horse-Comics/dp/1569710813)  
