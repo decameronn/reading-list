@@ -27,7 +27,6 @@ I usually read several books at any give time, partly because switching between 
 [Sidis, W.J. - The Animate and The Inanimate](https://www.amazon.com/Animate-Inanimate-William-James-Sidis/dp/B08SBCL3W1)  
   
 [Death Note](https://www.imdb.com/title/tt0877057/)  
-[Elements of AI](https://www.elementsofai.com/)  
 [Human Behavioral Biology - Youtube](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)  
 [Lex Fridman Podcast #70 - Jim Keller (Youtube)](https://www.youtube.com/watch?v=Nb2tebYAaOA)  
 [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)  
@@ -48,6 +47,7 @@ I usually read several books at any give time, partly because switching between 
 [Bradbury, Ray - Fahrenheit 451](https://www.amazon.com/Fahrenheit-451-Ray-Bradbury/dp/1451673264)  
 [DeMarco, Tom - Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113)  
 [Dick, P.K. - Ubik](https://www.amazon.com/Ubik-Philip-K-Dick/dp/1857988531)  
+[Elements of AI](https://www.elementsofai.com/)  
 [Herbert, Frank - Dune](https://www.amazon.com/Dune-Chronicles-Book-1/dp/0441013597)  
 [Lovecraft, H.P. - The Call of Cthulhu](https://www.amazon.com/Call-Cthulhu-H-P-Lovecraft/dp/B08DDVJVTC)  
 [Murakami, Haruki - 1Q84](https://www.amazon.com/1Q84-Books-1-2-3/dp/0099578077)  
