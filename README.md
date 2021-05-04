@@ -23,14 +23,12 @@ A note on digital book readers: For Windows and Linux, I haven't yet found an re
 I usually read several books at any give time, partly because switching between them gives me a better perspective on the books. If you have reading advice, I am interested in hearing it.  
   
 [Culasada (John Yates - The Mind Illuminated](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985)  
-[Elements of AI](https://www.elementsofai.com/)  
 [Harari, Yuval Noah - Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)  
 [Sidis, W.J. - The Animate and The Inanimate](https://www.amazon.com/Animate-Inanimate-William-James-Sidis/dp/B08SBCL3W1)  
   
 [Death Note](https://www.imdb.com/title/tt0877057/)  
 [Human Behavioral Biology - Youtube](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)  
 [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)  
-[The Science of Well-Being - Coursera](https://www.coursera.org/learn/the-science-of-well-being)  
 
 ### To Read / Watch
 [Follett, Ken - The Pillars Of The Earth](https://www.amazon.com/Pillars-Earth-Kingsbridge-Ken-Follett/dp/0451488334)  
@@ -39,7 +37,9 @@ I usually read several books at any give time, partly because switching between 
 [Wolfram, Stephen - A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088)  
 [Gibson, William - Neuromancer](https://www.amazon.com/Neuromancer-William-Gibson/dp/0441007465)  
   
+[Elements of AI](https://www.elementsofai.com/)  
 [Psychological Significance of the Biblical Stories: Genesis, The - Youtube](https://www.youtube.com/playlist?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat)  
+[The Science of Well-Being - Coursera](https://www.coursera.org/learn/the-science-of-well-being)  
   
 ### Finished
 [Asimov, Isaac - Foundation](https://www.amazon.com/Foundation-Isaac-Asimov/dp/0553382578)  
