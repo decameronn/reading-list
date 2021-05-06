@@ -23,6 +23,7 @@ A note on digital book readers: For Windows and Linux, I haven't yet found an re
 I usually read several books at any give time, partly because switching between them gives me a better perspective on the books. If you have reading advice, I am interested in hearing it.  
   
 [Culasada (John Yates - The Mind Illuminated](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985)  
+[Feynman Lectures on Physics, Volume I](https://www.feynmanlectures.caltech.edu/I_toc.html)  
 [Harari, Yuval Noah - Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)  
 [Sidis, W.J. - The Animate and The Inanimate](https://www.amazon.com/Animate-Inanimate-William-James-Sidis/dp/B08SBCL3W1)  
   
