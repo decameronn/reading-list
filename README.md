@@ -33,10 +33,11 @@ I usually read several books at any give time, partly because switching between 
 
 ### To Read / Watch
 [Follett, Ken - The Pillars Of The Earth](https://www.amazon.com/Pillars-Earth-Kingsbridge-Ken-Follett/dp/0451488334)  
+[Gibson, William - Neuromancer](https://www.amazon.com/Neuromancer-William-Gibson/dp/0441007465)  
 [Gleick, James - Chaos: Making a New Science](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453)  
 [Jordan, Robert - The Eye of The World](https://www.amazon.com/Eye-World-Book-Wheel-Time/dp/1250754739)  
+[Siegel, Daniel - Mindsight](https://www.amazon.com/Mindsight-New-Science-Personal-Transformation/dp/0553386395)  
 [Wolfram, Stephen - A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088)  
-[Gibson, William - Neuromancer](https://www.amazon.com/Neuromancer-William-Gibson/dp/0441007465)  
   
 [Elements of AI](https://www.elementsofai.com/)  
 [Psychological Significance of the Biblical Stories: Genesis, The - Youtube](https://www.youtube.com/playlist?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat)  
