@@ -29,7 +29,7 @@ I usually read several books at any give time, partly because switching between 
   
 [Death Note](https://www.imdb.com/title/tt0877057/)  
 [Human Behavioral Biology - Youtube](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)  
-[Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)  
+[Introduction to Mathematical Thinking - Coursera](https://www.coursera.org/learn/mathematical-thinking)  
 
 ### To Read / Watch
 [Follett, Ken - The Pillars Of The Earth](https://www.amazon.com/Pillars-Earth-Kingsbridge-Ken-Follett/dp/0451488334)  
@@ -40,6 +40,7 @@ I usually read several books at any give time, partly because switching between 
 [Wolfram, Stephen - A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088)  
   
 [Elements of AI](https://www.elementsofai.com/)  
+[Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)  
 [Psychological Significance of the Biblical Stories: Genesis, The - Youtube](https://www.youtube.com/playlist?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat)  
 [The Science of Well-Being - Coursera](https://www.coursera.org/learn/the-science-of-well-being)  
   
