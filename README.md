@@ -27,7 +27,6 @@ I usually read several books at any give time, partly because switching between 
 [Harari, Yuval Noah - Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)  
 [Sidis, W.J. - The Animate and The Inanimate](https://www.amazon.com/Animate-Inanimate-William-James-Sidis/dp/B08SBCL3W1)  
   
-[Death Note](https://www.imdb.com/title/tt0877057/)  
 [Human Behavioral Biology - Youtube](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)  
 [Introduction to Mathematical Thinking - Coursera](https://www.coursera.org/learn/mathematical-thinking)  
 
@@ -63,6 +62,7 @@ I usually read several books at any give time, partly because switching between 
 [Strugatsky, Arkady & Boris - Roadside Picnic](https://www.amazon.com/Roadside-Picnic-Rediscovered-Classics-Strugatsky/dp/1613743416)  
   
 [Age of AI, The - Youtube](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)  
+[Death Note](https://www.imdb.com/title/tt0877057/)  
 [Human Behavioral Biology - Youtube](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)  
 [Lex Fridman Podcast #70 - Jim Keller (Youtube)](https://www.youtube.com/watch?v=Nb2tebYAaOA)  
   
