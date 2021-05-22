@@ -40,6 +40,7 @@ I usually read several books at any give time, partly because switching between 
 [Wolfram, Stephen - A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088)  
   
 [Elements of AI](https://www.elementsofai.com/)  
+[Maps of Meaning](https://www.youtube.com/playlist?list=PL22J3VaeABQByVcW4lXQ46glULC-ekhOp)  
 [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)  
 [Psychological Significance of the Biblical Stories: Genesis, The - Youtube](https://www.youtube.com/playlist?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat)  
 [The Science of Well-Being - Coursera](https://www.coursera.org/learn/the-science-of-well-being)  
