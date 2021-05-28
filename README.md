@@ -26,6 +26,7 @@ I usually read several books at any give time, partly because switching between 
 [Feynman Lectures on Physics, Volume I](https://www.feynmanlectures.caltech.edu/I_toc.html)  
 [Harari, Yuval Noah - Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)  
 [Sidis, W.J. - The Animate and The Inanimate](https://www.amazon.com/Animate-Inanimate-William-James-Sidis/dp/B08SBCL3W1)  
+[Wittgenstein, Ludwig - Blue Book](https://digital.library.pitt.edu/islandora/object/pitt%3A31735061817932)  
   
 [Human Behavioral Biology - Youtube](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)  
 [Introduction to Mathematical Thinking - Coursera](https://www.coursera.org/learn/mathematical-thinking)  
