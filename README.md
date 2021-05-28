@@ -25,7 +25,6 @@ I usually read several books at any give time, partly because switching between 
 [Culasada (John Yates - The Mind Illuminated](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985)  
 [Feynman Lectures on Physics, Volume I](https://www.feynmanlectures.caltech.edu/I_toc.html)  
 [Harari, Yuval Noah - Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)  
-[Sidis, W.J. - The Animate and The Inanimate](https://www.amazon.com/Animate-Inanimate-William-James-Sidis/dp/B08SBCL3W1)  
 [Wittgenstein, Ludwig - Blue Book](https://digital.library.pitt.edu/islandora/object/pitt%3A31735061817932)  
   
 [Human Behavioral Biology - Youtube](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)  
@@ -37,6 +36,7 @@ I usually read several books at any give time, partly because switching between 
 [Gleick, James - Chaos: Making a New Science](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453)  
 [Jordan, Robert - The Eye of The World](https://www.amazon.com/Eye-World-Book-Wheel-Time/dp/1250754739)  
 [Kiyosaki, Robert - Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-their/dp/946398285X/)  
+[Sidis, W.J. - The Animate and The Inanimate](https://www.amazon.com/Animate-Inanimate-William-James-Sidis/dp/B08SBCL3W1)  
 [Siegel, Daniel - Mindsight](https://www.amazon.com/Mindsight-New-Science-Personal-Transformation/dp/0553386395)  
 [Wolfram, Stephen - A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088)  
   
