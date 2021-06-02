@@ -23,7 +23,7 @@ A note on digital book readers: For Windows and Linux, I haven't yet found an re
 I usually read several books at any give time, partly because switching between them gives me a better perspective on the books. If you have reading advice, I am interested in hearing it.  
   
 [Culasada (John Yates - The Mind Illuminated](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985)  
-[Feynman Lectures on Physics, Volume I](https://www.feynmanlectures.caltech.edu/I_toc.html)  
+[De Mello, Anthony - Awareness](https://www.arvindguptatoys.com/arvindgupta/tonyawareness.pdf)  
 [Harari, Yuval Noah - Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)  
 [Wittgenstein, Ludwig - Blue Book](https://digital.library.pitt.edu/islandora/object/pitt%3A31735061817932)  
   
@@ -41,6 +41,7 @@ I usually read several books at any give time, partly because switching between 
 [Wolfram, Stephen - A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088)  
   
 [Elements of AI](https://www.elementsofai.com/)  
+[Feynman Lectures on Physics, Volume I](https://www.feynmanlectures.caltech.edu/I_toc.html)  
 [Maps of Meaning](https://www.youtube.com/playlist?list=PL22J3VaeABQByVcW4lXQ46glULC-ekhOp)  
 [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)  
 [Psychological Significance of the Biblical Stories: Genesis, The - Youtube](https://www.youtube.com/playlist?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat)  
