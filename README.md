@@ -22,7 +22,7 @@ A note on digital book readers: For Windows and Linux, I haven't yet found an re
 ### Currently Reading / Watching
 I usually read several books at any give time, partly because switching between them gives me a better perspective on the books. If you have reading advice, I am interested in hearing it.  
   
-[Culasada (John Yates - The Mind Illuminated](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985)  
+[Culasada (John Yates) - The Mind Illuminated](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985)  
 [De Mello, Anthony - Awareness](https://www.arvindguptatoys.com/arvindgupta/tonyawareness.pdf)  
 [Harari, Yuval Noah - Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)  
 [Wittgenstein, Ludwig - Blue Book](https://digital.library.pitt.edu/islandora/object/pitt%3A31735061817932)  
