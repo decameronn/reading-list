@@ -38,6 +38,7 @@ I usually read several books at any give time, partly because switching between 
 [Kiyosaki, Robert - Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-their/dp/946398285X/)  
 [Sidis, W.J. - The Animate and The Inanimate](https://www.amazon.com/Animate-Inanimate-William-James-Sidis/dp/B08SBCL3W1)  
 [Siegel, Daniel - Mindsight](https://www.amazon.com/Mindsight-New-Science-Personal-Transformation/dp/0553386395)  
+[Tolle, Eckhart - The Power of Now](https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment-ebook/dp/B002361MLA)  
 [Wolfram, Stephen - A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088)  
   
 [Elements of AI](https://www.elementsofai.com/)  
