@@ -30,6 +30,7 @@ I usually read several books at any give time, partly because switching between 
 [Introduction to Mathematical Thinking - Coursera](https://www.coursera.org/learn/mathematical-thinking)  
 
 ### To Read / Watch
+[Beck, Charlotte - Everyday Zen](https://www.amazon.com/Everyday-Zen-Love-Work-Plus/dp/0061285897)  
 [Follett, Ken - The Pillars Of The Earth](https://www.amazon.com/Pillars-Earth-Kingsbridge-Ken-Follett/dp/0451488334)  
 [Gibson, William - Neuromancer](https://www.amazon.com/Neuromancer-William-Gibson/dp/0441007465)  
 [Gleick, James - Chaos: Making a New Science](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453)  
