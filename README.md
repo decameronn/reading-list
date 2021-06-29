@@ -26,7 +26,6 @@ I usually read several books at any give time, partly because switching between 
 [De Mello, Anthony - Awareness](https://www.arvindguptatoys.com/arvindgupta/tonyawareness.pdf)  
   
 [The Bible - Youtube](https://www.youtube.com/user/jointhebibleproject)  
-[Human Behavioral Biology - Youtube](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)  
 [Introduction to Mathematical Thinking - Coursera](https://www.coursera.org/learn/mathematical-thinking)  
 
 ### To Read / Watch
