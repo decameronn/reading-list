@@ -46,7 +46,6 @@ I usually read several books at any give time, partly because switching between 
 [Maps of Meaning](https://www.youtube.com/playlist?list=PL22J3VaeABQByVcW4lXQ46glULC-ekhOp)  
 [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)  
 [Psychological Significance of the Biblical Stories: Genesis, The - Youtube](https://www.youtube.com/playlist?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat)  
-[The Science of Well-Being - Coursera](https://www.coursera.org/learn/the-science-of-well-being)  
   
 ### Finished
 [Asimov, Isaac - Foundation](https://www.amazon.com/Foundation-Isaac-Asimov/dp/0553382578)  
@@ -70,4 +69,5 @@ I usually read several books at any give time, partly because switching between 
 [Death Note](https://www.imdb.com/title/tt0877057/)  
 [Human Behavioral Biology - Youtube](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)  
 [Lex Fridman Podcast #70 - Jim Keller (Youtube)](https://www.youtube.com/watch?v=Nb2tebYAaOA)  
+[The Science of Well-Being - Coursera](https://www.coursera.org/learn/the-science-of-well-being)  
   
