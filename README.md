@@ -35,6 +35,7 @@ I usually read several books at any give time, partly because switching between 
 [Gleick, James - Chaos: Making a New Science](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453)  
 [Jordan, Robert - The Eye of The World](https://www.amazon.com/Eye-World-Book-Wheel-Time/dp/1250754739)  
 [Kiyosaki, Robert - Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-their/dp/946398285X/)  
+[Marcus Aurelius - Meditations](https://www.amazon.com/Meditations-Marcus-Aurelius-dp-0486848531/dp/0486848531)  
 [Sidis, W.J. - The Animate and The Inanimate](https://www.amazon.com/Animate-Inanimate-William-James-Sidis/dp/B08SBCL3W1)  
 [Siegel, Daniel - Mindsight](https://www.amazon.com/Mindsight-New-Science-Personal-Transformation/dp/0553386395)  
 [Tolle, Eckhart - The Power of Now](https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment-ebook/dp/B002361MLA)  
