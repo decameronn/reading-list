@@ -44,7 +44,7 @@ I usually read several books at any give time, partly because switching between 
   
 [Elements of AI](https://www.elementsofai.com/)  
 [Feynman Lectures on Physics, Volume I](https://www.feynmanlectures.caltech.edu/I_toc.html)  
-[Maps of Meaning](https://www.youtube.com/playlist?list=PL22J3VaeABQByVcW4lXQ46glULC-ekhOp)  
+[Maps of Meaning - Youtube](https://www.youtube.com/playlist?list=PL22J3VaeABQByVcW4lXQ46glULC-ekhOp)  
 [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)  
 [Psychological Significance of the Biblical Stories: Genesis, The - Youtube](https://www.youtube.com/playlist?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat)  
   
