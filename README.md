@@ -27,6 +27,7 @@ I usually read several books at any give time, partly because switching between 
   
 [The Bible - Youtube](https://www.youtube.com/user/jointhebibleproject)  
 [Introduction to Mathematical Thinking - Coursera](https://www.coursera.org/learn/mathematical-thinking)  
+[Systems Innovation](https://www.youtube.com/channel/UCutCcajxhR33k9UR-DdLsAQ)
 
 ### To Read / Watch
 [Beck, Charlotte - Everyday Zen](https://www.amazon.com/Everyday-Zen-Love-Work-Plus/dp/0061285897)  
