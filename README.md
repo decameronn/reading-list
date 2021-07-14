@@ -25,7 +25,6 @@ I usually read several books at any give time, partly because switching between 
 [Culasada (John Yates) - The Mind Illuminated](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985)  
 [De Mello, Anthony - Awareness](https://www.arvindguptatoys.com/arvindgupta/tonyawareness.pdf)  
   
-[The Bible - Youtube](https://www.youtube.com/user/jointhebibleproject)  
 [Introduction to Mathematical Thinking - Coursera](https://www.coursera.org/learn/mathematical-thinking)  
 [Systems Innovation](https://www.youtube.com/channel/UCutCcajxhR33k9UR-DdLsAQ)
 
@@ -43,6 +42,7 @@ I usually read several books at any give time, partly because switching between 
 [Wittgenstein, Ludwig - Blue Book](https://digital.library.pitt.edu/islandora/object/pitt%3A31735061817932)  
 [Wolfram, Stephen - A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088)  
   
+[The Bible - Youtube](https://www.youtube.com/user/jointhebibleproject)  
 [Elements of AI](https://www.elementsofai.com/)  
 [Feynman Lectures on Physics, Volume I](https://www.feynmanlectures.caltech.edu/I_toc.html)  
 [Maps of Meaning - Youtube](https://www.youtube.com/playlist?list=PL22J3VaeABQByVcW4lXQ46glULC-ekhOp)  
