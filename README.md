@@ -21,7 +21,8 @@ A note on digital book readers: For Windows and Linux, I haven't yet found an re
   
 ### Currently Reading / Watching
 I usually read several books at any give time, partly because switching between them gives me a better perspective on the books. If you have reading advice, I am interested in hearing it.  
-  
+
+[Branden, Nathaniel - The Six Pillars of Self-Esteem](https://www.amazon.com/Six-Pillars-Self-Esteem-Nathaniel-Branden-ebook/dp/B007JK9BAY)  
 [Culasada (John Yates) - The Mind Illuminated](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985)  
   
 [Introduction to Mathematical Thinking - Coursera](https://www.coursera.org/learn/mathematical-thinking)  
