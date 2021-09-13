@@ -13,11 +13,13 @@ If you want to recommend any material that you find useful, please do so via pul
 - usually default PDF viewer (Evince, Okular, Adobe Reader, etc.)  
 ##### EPUB:  
 - macOS: iBooks; 
-- Win: Vivlio;
-- Linux: Vivlio;  
+- Win: Vivlio, Google Play Books Desktop (in Chrome);
+- Linux: Vivlio, Google Play Books Desktop (in Chrome);  
 A note on digital book readers: For Windows and Linux, I haven't yet found an reader that can match iBooks design. There are readers out there, but I'm looking for a minimalist design (I'm not looking at you, Calibre), while retaining the functionality and aesthetics, while not being cluttered with useless commercials (such as many from Windows 10 Store are). In this regard, [Vivlio](https://www.vivlio.com/en/home/) is the closest I could find.  
+[2021 edit] I also have discovered that using Play Books in Chrome, on a Win/Linux PC, is also a very pleasant reading experience. Try it out yourself!  
   
-![image](https://user-images.githubusercontent.com/17513553/111898079-7caf7600-8a2c-11eb-9cc0-c7c538d4cdf1.png)
+![vivlio](https://user-images.githubusercontent.com/17513553/111898079-7caf7600-8a2c-11eb-9cc0-c7c538d4cdf1.png)  
+![play-books-desktop](https://user-images.githubusercontent.com/17513553/133151259-bb5eb504-119a-42d3-826a-16b25321f839.png)  
   
 ### Currently Reading / Watching
 I usually read several books at any give time, partly because switching between them gives me a better perspective on the books. If you have reading advice, I am interested in hearing it.  
