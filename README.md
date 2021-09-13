@@ -23,14 +23,14 @@ A note on digital book readers: For Windows and Linux, I haven't yet found an re
 I usually read several books at any give time, partly because switching between them gives me a better perspective on the books. If you have reading advice, I am interested in hearing it.  
   
 [Culasada (John Yates) - The Mind Illuminated](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985)  
-[De Mello, Anthony - Awareness](https://www.arvindguptatoys.com/arvindgupta/tonyawareness.pdf)  
   
 [Introduction to Mathematical Thinking - Coursera](https://www.coursera.org/learn/mathematical-thinking)  
-[Systems Innovation](https://www.youtube.com/channel/UCutCcajxhR33k9UR-DdLsAQ)
+[Systems Innovation](https://www.youtube.com/channel/UCutCcajxhR33k9UR-DdLsAQ)  
 
 ### To Read / Watch
 [Beck, Charlotte - Everyday Zen](https://www.amazon.com/Everyday-Zen-Love-Work-Plus/dp/0061285897)  
-[Follett, Ken - The Pillars Of The Earth](https://www.amazon.com/Pillars-Earth-Kingsbridge-Ken-Follett/dp/0451488334)  
+[De Mello, Anthony - Awareness](https://www.arvindguptatoys.com/arvindgupta/tonyawareness.pdf)  
+[Don Miguel Ruiz, Janet Mills](https://www.amazon.com/Four-Agreements-Practical-Personal-Freedom-ebook/dp/B005BRS8Z6)  
 [Gibson, William - Neuromancer](https://www.amazon.com/Neuromancer-William-Gibson/dp/0441007465)  
 [Gleick, James - Chaos: Making a New Science](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453)  
 [Jordan, Robert - The Eye of The World](https://www.amazon.com/Eye-World-Book-Wheel-Time/dp/1250754739)  
