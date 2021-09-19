@@ -26,9 +26,6 @@ I usually read several books at any give time, partly because switching between 
 
 [Branden, Nathaniel - The Six Pillars of Self-Esteem](https://www.amazon.com/Six-Pillars-Self-Esteem-Nathaniel-Branden-ebook/dp/B007JK9BAY)  
 [Culasada (John Yates) - The Mind Illuminated](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985)  
-  
-[Introduction to Mathematical Thinking - Coursera](https://www.coursera.org/learn/mathematical-thinking)  
-[Systems Innovation](https://www.youtube.com/channel/UCutCcajxhR33k9UR-DdLsAQ)  
 
 ### To Read / Watch
 [Beck, Charlotte - Everyday Zen](https://www.amazon.com/Everyday-Zen-Love-Work-Plus/dp/0061285897)  
@@ -77,3 +74,6 @@ I usually read several books at any give time, partly because switching between 
 [The Bible - Youtube](https://www.youtube.com/user/jointhebibleproject)  
 [The Science of Well-Being - Coursera](https://www.coursera.org/learn/the-science-of-well-being)  
   
+## Postponed
+[Introduction to Mathematical Thinking - Coursera](https://www.coursera.org/learn/mathematical-thinking)  
+[Systems Innovation](https://www.youtube.com/channel/UCutCcajxhR33k9UR-DdLsAQ)  
