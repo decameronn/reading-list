@@ -39,6 +39,7 @@ I usually read several books at any give time, partly because switching between 
 [Sidis, W.J. - The Animate and The Inanimate](https://www.amazon.com/Animate-Inanimate-William-James-Sidis/dp/B08SBCL3W1)  
 [Siegel, Daniel - Mindsight](https://www.amazon.com/Mindsight-New-Science-Personal-Transformation/dp/0553386395)  
 [Tolle, Eckhart - The Power of Now](https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment-ebook/dp/B002361MLA)  
+[Vatican Digital Library](https://digi.vatlib.it/)
 [Wilber, Ken - Integral Psychology: Consciousness, Spirit, Psychology, Therapy](https://www.amazon.com/Integral-Psychology-Consciousness-Spirit-Therapy/dp/1570625549)  
 [Wittgenstein, Ludwig - Blue Book](https://digital.library.pitt.edu/islandora/object/pitt%3A31735061817932)  
 [Wolfram, Stephen - A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088)  
