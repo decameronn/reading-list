@@ -26,14 +26,12 @@ I usually read several books at any give time, partly because switching between 
 
 [Branden, Nathaniel - The Six Pillars of Self-Esteem](https://www.amazon.com/Six-Pillars-Self-Esteem-Nathaniel-Branden-ebook/dp/B007JK9BAY)  
 [Culasada (John Yates) - The Mind Illuminated](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985)  
-[Gibson, William - Neuromancer](https://www.amazon.com/Neuromancer-William-Gibson/dp/0441007465)  
 
 ### To Read / Watch
 [Beck, Charlotte - Everyday Zen](https://www.amazon.com/Everyday-Zen-Love-Work-Plus/dp/0061285897)  
 [De Mello, Anthony - Awareness](https://www.arvindguptatoys.com/arvindgupta/tonyawareness.pdf)  
 [Don Miguel Ruiz, Janet Mills - The Four Agreements: A Practical Guide to Personal Freedom](https://www.amazon.com/Four-Agreements-Practical-Personal-Freedom-ebook/dp/B005BRS8Z6)  
 [Gleick, James - Chaos: Making a New Science](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453)  
-[Jordan, Robert - The Eye of The World](https://www.amazon.com/Eye-World-Book-Wheel-Time/dp/1250754739)  
 [Kiyosaki, Robert - Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-their/dp/946398285X/)  
 [Marcus Aurelius - Meditations](https://www.amazon.com/Meditations-Marcus-Aurelius-dp-0486848531/dp/0486848531)  
 [Sidis, W.J. - The Animate and The Inanimate](https://www.amazon.com/Animate-Inanimate-William-James-Sidis/dp/B08SBCL3W1)  
@@ -41,15 +39,13 @@ I usually read several books at any give time, partly because switching between 
 [Tolle, Eckhart - The Power of Now](https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment-ebook/dp/B002361MLA)  
 [Vatican Digital Library](https://digi.vatlib.it/)
 [Wilber, Ken - Integral Psychology: Consciousness, Spirit, Psychology, Therapy](https://www.amazon.com/Integral-Psychology-Consciousness-Spirit-Therapy/dp/1570625549)  
-[Wittgenstein, Ludwig - Blue Book](https://digital.library.pitt.edu/islandora/object/pitt%3A31735061817932)  
-[Wolfram, Stephen - A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088)  
   
 [Elements of AI](https://www.elementsofai.com/)  
 [Feynman Lectures on Physics, Volume I](https://www.feynmanlectures.caltech.edu/I_toc.html)  
 [Maps of Meaning - Youtube](https://www.youtube.com/playlist?list=PL22J3VaeABQByVcW4lXQ46glULC-ekhOp)  
-[Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)  
 [Psychological Significance of the Biblical Stories: Genesis, The - Youtube](https://www.youtube.com/playlist?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat)  
-  
+[Systems Innovation - Youtube](https://www.youtube.com/channel/UCutCcajxhR33k9UR-DdLsAQ)  
+
 ### Finished
 [Asimov, Isaac - Foundation](https://www.amazon.com/Foundation-Isaac-Asimov/dp/0553382578)  
 [Boccaccio, Giovani - The Decameron](https://www.amazon.com/Decameron-Giovanni-Boccaccio/dp/0393350266)  
@@ -74,7 +70,3 @@ I usually read several books at any give time, partly because switching between 
 [Lex Fridman Podcast #70 - Jim Keller (Youtube)](https://www.youtube.com/watch?v=Nb2tebYAaOA)  
 [The Bible - Youtube](https://www.youtube.com/user/jointhebibleproject)  
 [The Science of Well-Being - Coursera](https://www.coursera.org/learn/the-science-of-well-being)  
-  
-## Postponed
-[Introduction to Mathematical Thinking - Coursera](https://www.coursera.org/learn/mathematical-thinking)  
-[Systems Innovation](https://www.youtube.com/channel/UCutCcajxhR33k9UR-DdLsAQ)  
