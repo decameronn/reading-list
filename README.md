@@ -31,13 +31,10 @@ I usually read several books at any give time, partly because switching between 
 [Beck, Charlotte - Everyday Zen](https://www.amazon.com/Everyday-Zen-Love-Work-Plus/dp/0061285897)  
 [De Mello, Anthony - Awareness](https://www.arvindguptatoys.com/arvindgupta/tonyawareness.pdf)  
 [Don Miguel Ruiz, Janet Mills - The Four Agreements: A Practical Guide to Personal Freedom](https://www.amazon.com/Four-Agreements-Practical-Personal-Freedom-ebook/dp/B005BRS8Z6)  
-[Gleick, James - Chaos: Making a New Science](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453)  
 [Kiyosaki, Robert - Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-their/dp/946398285X/)  
 [Marcus Aurelius - Meditations](https://www.amazon.com/Meditations-Marcus-Aurelius-dp-0486848531/dp/0486848531)  
 [Sidis, W.J. - The Animate and The Inanimate](https://www.amazon.com/Animate-Inanimate-William-James-Sidis/dp/B08SBCL3W1)  
-[Siegel, Daniel - Mindsight](https://www.amazon.com/Mindsight-New-Science-Personal-Transformation/dp/0553386395)  
 [Tolle, Eckhart - The Power of Now](https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment-ebook/dp/B002361MLA)  
-[Vatican Digital Library](https://digi.vatlib.it/)
 [Wilber, Ken - Integral Psychology: Consciousness, Spirit, Psychology, Therapy](https://www.amazon.com/Integral-Psychology-Consciousness-Spirit-Therapy/dp/1570625549)  
   
 [Elements of AI](https://www.elementsofai.com/)  
