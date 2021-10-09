@@ -35,6 +35,7 @@ I usually read several books at any give time, partly because switching between 
 [Marcus Aurelius - Meditations](https://www.amazon.com/Meditations-Marcus-Aurelius-dp-0486848531/dp/0486848531)  
 [Sidis, W.J. - The Animate and The Inanimate](https://www.amazon.com/Animate-Inanimate-William-James-Sidis/dp/B08SBCL3W1)  
 [Tolle, Eckhart - The Power of Now](https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment-ebook/dp/B002361MLA)  
+[Ware, Bronnie - Top five regrets of dying](https://www.amazon.com/Top-Five-Regrets-Dying-Transformed/dp/140194065X)  
 [Wilber, Ken - Integral Psychology: Consciousness, Spirit, Psychology, Therapy](https://www.amazon.com/Integral-Psychology-Consciousness-Spirit-Therapy/dp/1570625549)  
   
 [Elements of AI](https://www.elementsofai.com/)  
