@@ -26,12 +26,12 @@ I usually read several books at any give time, partly because switching between 
 
 [Branden, Nathaniel - The Six Pillars of Self-Esteem](https://www.amazon.com/Six-Pillars-Self-Esteem-Nathaniel-Branden-ebook/dp/B007JK9BAY)  
 [Culasada (John Yates) - The Mind Illuminated](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985)  
-
+[Kiyosaki, Robert - Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-their/dp/946398285X/)  
+  
 ### To Read / Watch
 [Beck, Charlotte - Everyday Zen](https://www.amazon.com/Everyday-Zen-Love-Work-Plus/dp/0061285897)  
 [De Mello, Anthony - Awareness](https://www.arvindguptatoys.com/arvindgupta/tonyawareness.pdf)  
 [Don Miguel Ruiz, Janet Mills - The Four Agreements: A Practical Guide to Personal Freedom](https://www.amazon.com/Four-Agreements-Practical-Personal-Freedom-ebook/dp/B005BRS8Z6)  
-[Kiyosaki, Robert - Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-their/dp/946398285X/)  
 [Marcus Aurelius - Meditations](https://www.amazon.com/Meditations-Marcus-Aurelius-dp-0486848531/dp/0486848531)  
 [Sidis, W.J. - The Animate and The Inanimate](https://www.amazon.com/Animate-Inanimate-William-James-Sidis/dp/B08SBCL3W1)  
 [Tolle, Eckhart - The Power of Now](https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment-ebook/dp/B002361MLA)  
