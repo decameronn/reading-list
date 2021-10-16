@@ -32,6 +32,7 @@ I usually read several books at any give time, partly because switching between 
 [Beck, Charlotte - Everyday Zen](https://www.amazon.com/Everyday-Zen-Love-Work-Plus/dp/0061285897)  
 [De Mello, Anthony - Awareness](https://www.arvindguptatoys.com/arvindgupta/tonyawareness.pdf)  
 [Don Miguel Ruiz, Janet Mills - The Four Agreements: A Practical Guide to Personal Freedom](https://www.amazon.com/Four-Agreements-Practical-Personal-Freedom-ebook/dp/B005BRS8Z6)  
+[Leonard, George - Mastery](https://www.goodreads.com/book/show/81940.Mastery)  
 [Marcus Aurelius - Meditations](https://www.amazon.com/Meditations-Marcus-Aurelius-dp-0486848531/dp/0486848531)  
 [Sidis, W.J. - The Animate and The Inanimate](https://www.amazon.com/Animate-Inanimate-William-James-Sidis/dp/B08SBCL3W1)  
 [Tolle, Eckhart - The Power of Now](https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment-ebook/dp/B002361MLA)  
