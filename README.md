@@ -1,8 +1,6 @@
 # Reading List
 A list of books that I am currently reading and a history of what I read in the (very recent) past. All the materials listed here molded me (to various degrees) into who I am today.  
 When I say "book", I mean an actual book, but also an article, a video (even an entire series), a podcast, etc. Therefore it should be considered a "watch list" as well.    
-  
-Sorting is done by author's name, in alphabetical order.  
 I may also add other sub-categories later on.
 
 #### Contributing
