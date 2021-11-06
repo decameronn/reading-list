@@ -23,7 +23,6 @@ A note on digital book readers: For Windows and Linux, I haven't yet found an re
 I usually read several books at any give time, partly because switching between them gives me a better perspective on the books. If you have reading advice, I am interested in hearing it.  
 
 [Branden, Nathaniel - The Six Pillars of Self-Esteem](https://www.amazon.com/Six-Pillars-Self-Esteem-Nathaniel-Branden-ebook/dp/B007JK9BAY)  
-[Culasada (John Yates) - The Mind Illuminated](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985)  
 [Kiyosaki, Robert - Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-their/dp/946398285X/)  
   
 ### To Read / Watch
@@ -47,6 +46,7 @@ I usually read several books at any give time, partly because switching between 
 [Asimov, Isaac - Foundation](https://www.amazon.com/Foundation-Isaac-Asimov/dp/0553382578)  
 [Boccaccio, Giovani - The Decameron](https://www.amazon.com/Decameron-Giovanni-Boccaccio/dp/0393350266)  
 [Bradbury, Ray - Fahrenheit 451](https://www.amazon.com/Fahrenheit-451-Ray-Bradbury/dp/1451673264)  
+[Culasada (John Yates) - The Mind Illuminated](https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985)  
 [DeMarco, Tom - Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113)  
 [Dick, P.K. - Ubik](https://www.amazon.com/Ubik-Philip-K-Dick/dp/1857988531)  
 [Harari, Yuval Noah - Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)  
