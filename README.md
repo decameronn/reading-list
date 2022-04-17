@@ -23,7 +23,7 @@ A note on digital book readers: For Windows and Linux, I haven't yet found an re
 I usually read several books at any give time, partly because switching between them gives me a better perspective on the books. If you have reading advice, I am interested in hearing it.  
 
 [Branden, Nathaniel - The Six Pillars of Self-Esteem](https://www.amazon.com/Six-Pillars-Self-Esteem-Nathaniel-Branden-ebook/dp/B007JK9BAY)  
-[Kiyosaki, Robert - Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-their/dp/946398285X/)  
+
   
 ### To Read / Watch
 [Beck, Charlotte - Everyday Zen](https://www.amazon.com/Everyday-Zen-Love-Work-Plus/dp/0061285897)  
@@ -31,6 +31,7 @@ I usually read several books at any give time, partly because switching between 
 [Don Miguel Ruiz, Janet Mills - The Four Agreements: A Practical Guide to Personal Freedom](https://www.amazon.com/Four-Agreements-Practical-Personal-Freedom-ebook/dp/B005BRS8Z6)  
 [Leonard, George - Mastery](https://www.goodreads.com/book/show/81940.Mastery)  
 [Marcus Aurelius - Meditations](https://www.amazon.com/Meditations-Marcus-Aurelius-dp-0486848531/dp/0486848531)  
+[Kiyosaki, Robert - Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-their/dp/946398285X/)  
 [Sidis, W.J. - The Animate and The Inanimate](https://www.amazon.com/Animate-Inanimate-William-James-Sidis/dp/B08SBCL3W1)  
 [Tolle, Eckhart - The Power of Now](https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment-ebook/dp/B002361MLA)  
 [Ware, Bronnie - Top five regrets of dying](https://www.amazon.com/Top-Five-Regrets-Dying-Transformed/dp/140194065X)  
