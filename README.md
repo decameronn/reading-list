@@ -23,6 +23,7 @@ A note on digital book readers: For Windows and Linux, I haven't yet found an re
 I usually read several books at any give time, partly because switching between them gives me a better perspective on the books. If you have reading advice, I am interested in hearing it.  
 [Branden, Nathaniel - The Six Pillars of Self-Esteem](https://www.amazon.com/Six-Pillars-Self-Esteem-Nathaniel-Branden-ebook/dp/B007JK9BAY)  
 [Leonard, George - Mastery](https://www.amazon.com/Mastery-Keys-Success-Long-Term-Fulfillment/dp/0452267560/)  
+[Sadhguru - Inner Management](https://www.youtube.com/watch?v=aMzdiZj8Fio)  
   
 ### To Read / Watch
 [Beck, Charlotte - Everyday Zen](https://www.amazon.com/Everyday-Zen-Love-Work-Plus/dp/0061285897)  
