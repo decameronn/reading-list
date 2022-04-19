@@ -23,25 +23,16 @@ A note on digital book readers: For Windows and Linux, I haven't yet found an re
 I usually read several books at any give time, partly because switching between them gives me a better perspective on the books. If you have reading advice, I am interested in hearing it.  
 [Branden, Nathaniel - The Six Pillars of Self-Esteem](https://www.amazon.com/Six-Pillars-Self-Esteem-Nathaniel-Branden-ebook/dp/B007JK9BAY)  
 [Leonard, George - Mastery](https://www.amazon.com/Mastery-Keys-Success-Long-Term-Fulfillment/dp/0452267560/)  
-[Sadhguru - Inner Management](https://www.youtube.com/watch?v=aMzdiZj8Fio)  
   
 ### To Read / Watch
 [Beck, Charlotte - Everyday Zen](https://www.amazon.com/Everyday-Zen-Love-Work-Plus/dp/0061285897)  
 [De Mello, Anthony - Awareness](https://www.arvindguptatoys.com/arvindgupta/tonyawareness.pdf)  
 [Don Miguel Ruiz, Janet Mills - The Four Agreements: A Practical Guide to Personal Freedom](https://www.amazon.com/Four-Agreements-Practical-Personal-Freedom-ebook/dp/B005BRS8Z6)  
-[Leonard, George - Mastery](https://www.goodreads.com/book/show/81940.Mastery)  
 [Marcus Aurelius - Meditations](https://www.amazon.com/Meditations-Marcus-Aurelius-dp-0486848531/dp/0486848531)  
-[Kiyosaki, Robert - Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-their/dp/946398285X/)  
-[Sidis, W.J. - The Animate and The Inanimate](https://www.amazon.com/Animate-Inanimate-William-James-Sidis/dp/B08SBCL3W1)  
-[Tolle, Eckhart - The Power of Now](https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment-ebook/dp/B002361MLA)  
-[Ware, Bronnie - Top five regrets of dying](https://www.amazon.com/Top-Five-Regrets-Dying-Transformed/dp/140194065X)  
-[Wilber, Ken - Integral Psychology: Consciousness, Spirit, Psychology, Therapy](https://www.amazon.com/Integral-Psychology-Consciousness-Spirit-Therapy/dp/1570625549)  
+[Kiyosaki, Robert - Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-their/dp/946398285X/)   
   
-[Elements of AI](https://www.elementsofai.com/)  
 [Feynman Lectures on Physics, Volume I](https://www.feynmanlectures.caltech.edu/I_toc.html)  
 [Maps of Meaning - Youtube](https://www.youtube.com/playlist?list=PL22J3VaeABQByVcW4lXQ46glULC-ekhOp)  
-[Psychological Significance of the Biblical Stories: Genesis, The - Youtube](https://www.youtube.com/playlist?list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat)  
-[Systems Innovation - Youtube](https://www.youtube.com/channel/UCutCcajxhR33k9UR-DdLsAQ)  
 
 ### Finished
 [Asimov, Isaac - Foundation](https://www.amazon.com/Foundation-Isaac-Asimov/dp/0553382578)  
@@ -66,5 +57,6 @@ I usually read several books at any give time, partly because switching between 
 [Death Note](https://www.imdb.com/title/tt0877057/)  
 [Human Behavioral Biology - Youtube](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)  
 [Lex Fridman Podcast #70 - Jim Keller (Youtube)](https://www.youtube.com/watch?v=Nb2tebYAaOA)  
-[The Bible - Youtube](https://www.youtube.com/user/jointhebibleproject)  
+[The Bible Project - Youtube](https://www.youtube.com/user/jointhebibleproject)  
+[Sadhguru - Inner Management](https://www.youtube.com/watch?v=aMzdiZj8Fio)  
 [The Science of Well-Being - Coursera](https://www.coursera.org/learn/the-science-of-well-being)  
